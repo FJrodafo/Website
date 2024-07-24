@@ -65,6 +65,19 @@ App/
 
 ## Run it!
 
+Open your directory where you save your repositories and clone it with the following command:
+
+```shell
+# GitHub
+git clone https://github.com/FJrodafo/Website.git
+
+# GitLab
+git clone https://gitlab.com/FJrodafo/Website.git
+
+# Bitbucket
+git clone https://bitbucket.org/fjrodafo/website.git
+```
+
 This project needs a `.env` into the `App` directory with some data related to your EmailJS service (Make sure you have an EmailJS account created, you can create one in the [EmailJS](https://www.emailjs.com/) official website):
 
 ```conf

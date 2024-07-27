@@ -70,10 +70,14 @@ Open your directory where you save your repositories and clone it with the follo
 ```shell
 # GitHub
 git clone https://github.com/FJrodafo/Website.git
+```
 
+```shell
 # GitLab
 git clone https://gitlab.com/FJrodafo/Website.git
+```
 
+```shell
 # Bitbucket
 git clone https://bitbucket.org/fjrodafo/website.git
 ```

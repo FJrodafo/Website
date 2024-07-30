@@ -52,7 +52,7 @@
     "services": {
         "section": {
             "title": "Services",
-            "subtitle": "What i offer"
+            "subtitle": "What I offer"
         },
         "frontend": {
             "title": "Front-End Development",
@@ -141,7 +141,7 @@
     "contact": {
         "section": {
             "title": "Get in touch",
-            "subtitle": "Contact Me"
+            "subtitle": "Contact me"
         },
         "container": {
             "title": "Talk to me",

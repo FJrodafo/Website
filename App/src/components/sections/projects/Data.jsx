@@ -1,9 +1,9 @@
 import DiscordLight from '../../../assets/images/app/discord/light.png';
 import DiscordDark from '../../../assets/images/app/discord/dark.png';
-import PagesLight from '../../../assets/images/app/pages/light.png';
-import PagesDark from '../../../assets/images/app/pages/dark.png';
 import DauntlessBuilderLight from '../../../assets/images/contribution/dauntlessbuilder/light.png';
 import DauntlessBuilderDark from '../../../assets/images/contribution/dauntlessbuilder/dark.png';
+import DauntlessLeaderboardsLight from '../../../assets/images/contribution/dauntlessleaderboards/light.png';
+import DauntlessLeaderboardsDark from '../../../assets/images/contribution/dauntlessleaderboards/dark.png';
 import NPMLight from '../../../assets/images/package/npm/light.png';
 import NPMDark from '../../../assets/images/package/npm/dark.png';
 
@@ -43,21 +43,21 @@ const projectsData = [
   },
   {
     id: 3,
-    category: 'app',
-    imageLight: PagesLight,
-    imageDark: PagesDark,
-    link: 'https://fjrodafo.vercel.app/',
-    title: 'Website',
-    repository: 'https://github.com/FJrodafo/Website',
-  },
-  {
-    id: 4,
     category: 'collaboration',
     imageLight: DauntlessBuilderLight,
     imageDark: DauntlessBuilderDark,
     link: 'https://www.dauntless-builder.com/',
     title: 'dauntless-builder',
     repository: 'https://github.com/atomicptr/dauntless-builder',
+  },
+  {
+    id: 4,
+    category: 'collaboration',
+    imageLight: DauntlessLeaderboardsLight,
+    imageDark: DauntlessLeaderboardsDark,
+    link: 'https://dauntless-leaderboards.com/',
+    title: 'dauntless-leaderboards',
+    repository: 'https://github.com/PierreYvesFlamand/Dauntless-Leaderboards',
   },
   {
     id: 5,
